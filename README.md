@@ -5,7 +5,7 @@ This is a simple but very effective captcha solver
 *THIS MODULE HAS BEEN DEVELOPED WITH EDUCATIONAL PURPOSE. I DO NOT ENCOURAGE AND ACCEPT RESPONSIBILITY OF MISUSING OF THIS SOURCE CODE* 
 
 ## Built With
-Python 3.6 was used to develop this module. Other than built-in modules, a few other modules/packages has been used which are decribed at [Prerequisites](## Prerequisites). 
+Python 3.6 was used to develop this module. Other than built-in modules, a few other modules/packages has been used which are decribed at [Prerequisites](##Prerequisites). 
 
 # Getting Started
 
