@@ -10,7 +10,7 @@ Python 3.6 was used to develop this module. Other than built-in modules, a few o
 # Getting Started
 
 ## Prerequisites
-Below modules/packages efore running the code:
+Below modules/packages are need to install for running the code:
 
 1. [Selenium](https://www.seleniumhq.org/download/): This package is used to run a webdriver to browse the website. It is not actually part of captcha solver.
 2. [PIL](https://pillow.readthedocs.io/en/stable/)
